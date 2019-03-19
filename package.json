@@ -17,5 +17,13 @@
     "color-scheme"
   ],
   "author": "Welkson Ramos",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/detalhar/hyper-detalhar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/detalhar/hyper-detalhar/issues"
+  },
+  "homepage": "https://github.com/detalhar/hyper-detalhar#readme"
 }
